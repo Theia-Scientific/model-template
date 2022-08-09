@@ -1,5 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
+title: "Theia-Scientific/model-template - A template repository for sharing Machine Learning models for Nuclear Materials community"
+abstract: "An example GitHub-hosted repository for a Machine Learning (ML) model using best practices for model deployment. This repository can be used as a template for hosting a ML model on GitHub for publishing to other hubs and to easily share a model with anyone."
 authors:
   - family-names: Field
     given-names: Christopher
@@ -7,7 +9,10 @@ authors:
   - family-names: Field
     given-names: Kevin
     orcid: https://orcid.org/0000-0002-3105-076X
-title: "Theia-Scientific/model-template - A template repository for sharing Machine Learning models for Nuclear Materials community"
 version: 1.0.0
-doi: XX.XXXX/zenodo.YYYYYYY
 date-released: 2022-08-09
+identifiers:
+  - type: doi
+    value: "XX.XXXX/zenodo.YYYYYYY"
+license: Apache-2.0
+repository-code: "https://github.com/Theia-Scientific/model-template"
