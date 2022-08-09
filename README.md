@@ -1,8 +1,8 @@
 # Model Template
 
-![GitHub](https://img.shields.io/github/license/Theia-Scientific/model-template)
+[![GitHub](https://img.shields.io/github/license/Theia-Scientific/model-template)](https://github.com/Theia-Scientific/model-template/blob/main/LICENSE)
 [![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.YYYYYYY.svg)](https://doi.org/XX.XXXX/zenodo.YYYYYYY)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Theia-Scientific/model-template)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/Theia-Scientific/model-template)](https://github.com/Theia-Scientific/model-template/releases)
 
 ## Introduction
 
