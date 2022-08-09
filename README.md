@@ -1,4 +1,4 @@
-# Model Title
+# Model Template
 
 ![GitHub](https://img.shields.io/github/license/Theia-Scientific/model-template)
 [![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.YYYYYYY.svg)](https://doi.org/XX.XXXX/zenodo.YYYYYYY)
