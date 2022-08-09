@@ -1,7 +1,7 @@
 # Model Template
 
 [![GitHub](https://img.shields.io/github/license/Theia-Scientific/model-template)](https://github.com/Theia-Scientific/model-template/blob/main/LICENSE)
-[![DOI](https://zenodo.org/badge/DOI/XX.XXXX/zenodo.YYYYYYY.svg)](https://doi.org/XX.XXXX/zenodo.YYYYYYY)
+[![DOI](https://zenodo.org/badge/522758267.svg)](https://zenodo.org/badge/latestdoi/522758267)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/Theia-Scientific/model-template)](https://github.com/Theia-Scientific/model-template/releases)
 
 ## Introduction
@@ -81,8 +81,8 @@ references:
   year      = 2022,
   publisher = {zenodo},
   version   = {v1.0.0},
-  doi       = {XX.XXX/zenodo.YYYYYYY},
-  url       = {https://doi.org/XX.XXXX/zenodo.YYYYYYY}
+  doi       = {10.5281/zenodo.6977690},
+  url       = {https://doi.org/10.5281/zenodo.6977690}
 }
 ```
 
