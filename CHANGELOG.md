@@ -11,6 +11,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 - Links to some badges.
 
+### Fixed
+
+- Document Object Identifier (DOI).
+
 ## [1.0.0] - 2022-08-09
 
 ### Added
