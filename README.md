@@ -9,7 +9,7 @@
 An example GitHub-hosted repository for a Machine Learning (ML) model using best
 practices for model deployment. This repository can be used as a template for
 hosting a ML model on GitHub for publishing to other "hubs" and to easily share
-a usage model with anyone.
+a model with anyone.
 
 ## Getting Started
 
